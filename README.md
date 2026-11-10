@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" alt="Valyrian-Code: folded, tested, reforged." width="100%"/>
+<img src="./hero.svg" alt="Valyrian-Code: folded, tested, reforged." width="100%"/>
 
 </div>
 
@@ -9,7 +9,7 @@
 I fine-tune small language models, build backend systems, and send patches upstream to open source projects.
 This is the lab account, where experiments live. The polished versions ship from [RAJVEER42](https://github.com/RAJVEER42).
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<img src="./divider.svg" width="100%" alt=""/>
 
 ## work
 
@@ -23,13 +23,13 @@ This is the lab account, where experiments live. The polished versions ship from
 ## now
 
 <div align="center">
-<img src="./assets/now.svg" alt="Currently training phi-3-mini with QLoRA, shipping phi3-pr-reviewer, studying fine-tuning versus RAG." width="100%"/>
+<img src="./now.svg" alt="Currently training phi-3-mini with QLoRA, shipping phi3-pr-reviewer, studying fine-tuning versus RAG." width="100%"/>
 </div>
 
 ## stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch,java,spring,go,ts,react,nextjs,docker,kubernetes,aws,postgres&perline=12&theme=dark" alt="Python, PyTorch, Java, Spring, Go, TypeScript, React, Next.js, Docker, Kubernetes, AWS, PostgreSQL"/>
+<img src="./stack.svg" alt="Languages: Python, Java, C, JavaScript, TypeScript, Go, Dart, Swift, Bash, SQL. Foundations: DSA, mathematics, probability and statistics. AI and ML: PyTorch, TensorFlow, scikit-learn, OpenCV, Hugging Face, PEFT and QLoRA, RAG, pandas, NumPy. Backend and web: Spring Boot, Node.js, React, Next.js, PostgreSQL, MongoDB. Mobile: Flutter, SwiftUI, Xcode. Cloud and devops: AWS, GCP, Docker, Kubernetes, GitHub Actions, Linux, Shell, Git." width="100%"/>
 </div>
 
 <br/>
@@ -45,7 +45,7 @@ This is the lab account, where experiments live. The polished versions ship from
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" width="100%"/>
 </picture>
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<img src="./divider.svg" width="100%" alt=""/>
 
 [![GitHub](https://img.shields.io/badge/RAJVEER42-161C27?style=flat-square&logo=github&logoColor=FFB454)](https://github.com/RAJVEER42)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-161C27?style=flat-square&logo=linkedin&logoColor=FFB454)](https://www.linkedin.com/in/rajveer-bishnoi-576b62356)
